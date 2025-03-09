@@ -1,7 +1,8 @@
 {
   "name": "react-hw1",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://maksym-ryaboshapka.github.io/react-hw1/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
